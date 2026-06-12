@@ -1,0 +1,36 @@
+/* Gradient background */
+.gradient-bg {
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+}
+
+/* Login card styling */
+.login-card {
+    width: 380px;
+    background-color: #fff;
+}
+
+/* Gradient button */
+.btn-gradient {
+    background: linear-gradient(90deg, #6a11cb, #2575fc);
+    color: #fff;
+    border: none;
+    transition: 0.3s;
+}
+.btn-gradient:hover {
+    opacity: 0.9;
+}
+
+/* Social buttons */
+.social-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+.fb { background-color: #3b5998; }
+.tw { background-color: #1da1f2; }
+.gg { background-color: #db4437; }
+.social-btn:hover { opacity: 0.8; }

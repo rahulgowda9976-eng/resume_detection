@@ -1,0 +1,62 @@
+{
+    "Parsed Data": {
+        "Names": [
+            "MarketOnline Grocery Store",
+            "Strengths"
+        ],
+        "Organizations": [
+            "APIintegration",
+            "CI/CDconcepts",
+            "Education\nB.E.Computer Science &Engineering\nAdhiyamaan College",
+            "Python(Pandas",
+            "C#(basic",
+            "HTTPprotocols",
+            "JSONingestion",
+            "AzurePortal",
+            "AzureDevOps(basic),CI/CDconcepts,Agile/Scrum",
+            "TeamCollaboration",
+            "Problem-Solving",
+            "CSS"
+        ],
+        "Dates": [
+            "8248367668",
+            "2026"
+        ],
+        "Degrees": [
+            "ComputerScience undergraduatespecializing in Python development and backend",
+            "engineeringwith strong exposureto software testing and automation. Skilled in",
+            "B.E.Computer Science &Engineering",
+            "Adhiyamaan College ofEngineering (2022 \u2013 2026)"
+        ],
+        "Institutions": [
+            "Adhiyamaan College ofEngineering (2022 \u2013 2026)",
+            "APIintegration",
+            "CI/CDconcepts",
+            "Education\nB.E.Computer Science &Engineering\nAdhiyamaan College",
+            "Python(Pandas",
+            "C#(basic",
+            "HTTPprotocols",
+            "JSONingestion",
+            "AzurePortal",
+            "AzureDevOps(basic),CI/CDconcepts,Agile/Scrum",
+            "TeamCollaboration",
+            "Problem-Solving",
+            "CSS"
+        ]
+    },
+    "Skills Found": [
+        "Python",
+        "Java",
+        "C",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Snowflake",
+        "Pandas",
+        "NumPy",
+        "Tableau",
+        "Excel",
+        "Agile",
+        "Scrum"
+    ]
+}
