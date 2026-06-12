@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Data and output files
+/data/
+/output/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
